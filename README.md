@@ -11,6 +11,9 @@
 - 📧 Contato: felipe.pereirasouza7@gmail.com
 
 
+<div align="left">
+  <img src="https://github.com/EnzoOliveiraCiarcia/EnzoOliveiraCiarcia/raw/main/tenor.gif" width="150px">
+</div>
 
 
 ---
